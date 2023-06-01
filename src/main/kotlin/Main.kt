@@ -12,7 +12,7 @@ while (n <= 0) {
      for (i in 1..n)  {
           println("Enter phone numbers ¹1:")
      var phoneNumber :Int = readLine()?.toIntOrNull() ?: return
-     }*/
+     } */
 
 }
 
