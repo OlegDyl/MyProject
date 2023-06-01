@@ -1,6 +1,20 @@
-fun main() {
+fun main(){
+  /*   val addNumberPhone = mutableListOf<String>()
+     println("Enter a number: ")
 
-    print("Введите имя: ")
-    val name = readLine()
-    println("Ваше имя: $name")
+     var n :Int = readLine()?.toIntOrNull() ?: return
+while (n <= 0) {
+     println("Error!")
+     println("Enter another number: ")
+     n = readLine()?.toIntOrNull() ?: return
+     println("Enter $n phone numbers")
 }
+     for (i in 1..n)  {
+          println("Enter phone numbers �1:")
+     var phoneNumber :Int = readLine()?.toIntOrNull() ?: return
+     }*/
+
+}
+
+
+
